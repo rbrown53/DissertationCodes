@@ -14,3 +14,4 @@ Inpainting_Regional_Sparse.m implements the method for dealing with images with 
 
 Inpainting_Regional_Mult.m is based on an alternative to Inpainting_Regional_Sparse.m that is suggested in Section 5.1.8 of the dissertation. Instead of solving one inverse problem, the number of inverse problems solved is equal to the number of distinct regions of the image. Each one is solved independently and the results are then stitched together. This method was not used in the dissertation.  
 
+Questions can be sent to rick.brown@umontana.edu.
